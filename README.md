@@ -1,17 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF851B&height=125&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFAA5F&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+GitHub+do+Lucas!;)](https:git.io/typing-svg)
-
 
 # 💫 Sobre mim
 Estudante de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana)<br>
 
-
 ## 🌐 Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gabriel-730475201/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfc94298@gmail.com?subject=Olá!)
-
 
 # 💻 Tecnologias
 Categorias | Tecnologias
@@ -22,20 +18,12 @@ Categorias | Tecnologias
 **Databases** | ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 **Ferramentas** | 	![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Quartus](https://img.shields.io/badge/-Quartus-000000?style=for-the-badge&logo=intel)
 
-
 # 📊 Estatísticas do GitHub
-
 <div align="center">
  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucaasGy&show_icons=true&count_private=true&hide_border=true&title_color=FFAA5F&icon_color=586AE2&text_color=c9d1d9&bg_color=0d1117" />
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaasGy&layout=compact&hide_border=true&title_color=FFAA5F&text_color=c9d1d9&bg_color=0d1117&hide=HTML,SystemVerilog,Tcl,Shell,VHDL,Stata,GDB,Coq,Mathematica" />
- 
-</div>
-
-<div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LucaasGy&theme=blueberry&hide_border=true)
 
 </div>
 
